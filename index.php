@@ -1,2 +1,3 @@
 <?php
-echo "Iam deployed";
+$name = "sam";
+echo name;
